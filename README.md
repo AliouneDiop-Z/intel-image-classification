@@ -83,4 +83,4 @@ Ce travail illustre ainsi comment les techniques de **vision par ordinateur** et
 
 ## 👩‍🎓 Auteur
 
-Projet réalisé par *[Ton Nom]* dans le cadre du **DU Data Analytics – Université Paris 1 Panthéon-Sorbonne**.  
+Projet réalisé par Diop Alioune dans le cadre du **DU Data Analytics – Université Paris 1 Panthéon-Sorbonne**.  
